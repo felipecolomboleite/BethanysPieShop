@@ -360,3 +360,1766 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+02/course-introduction-slides.pdf
+03/setting-up-an-mvc-application-slides.pdf
+04/creating-the-list-page-slides.pdf
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop.sln
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/appsettings.Development.json
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/appsettings.json
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/libman.json
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Program.cs
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Startup.cs
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Controllers/PieController.cs
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/Category.cs
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/ICategoryRepository.cs
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/IPieRepository.cs
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/MockCategoryRepository.cs
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/MockPieRepository.cs
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/Pie.cs
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Properties/launchSettings.json
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/ViewModels/PiesListViewModel.cs
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/_ViewImports.cshtml
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/_ViewStart.cshtml
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Pie/List.cshtml
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Shared/_Layout.cshtml
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/bethanylogo.png
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel1.jpg
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel2.jpg
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel3.jpg
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/pattern.png
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/content/site.css
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css.map
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css.map
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css.map
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css.map
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.eot
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.svg
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.js
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.min.js
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/npm.js
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/core.js
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.js
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.js
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.map
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.js
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.js
+04/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.map
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop.sln
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/appsettings.Development.json
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/appsettings.json
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/libman.json
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Program.cs
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Startup.cs
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Controllers/PieController.cs
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/Category.cs
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/ICategoryRepository.cs
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/IPieRepository.cs
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/MockCategoryRepository.cs
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/MockPieRepository.cs
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/Pie.cs
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Properties/launchSettings.json
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/ViewModels/PiesListViewModel.cs
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/_ViewImports.cshtml
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/_ViewStart.cshtml
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Pie/List.cshtml
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Shared/_Layout.cshtml
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/bethanylogo.png
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel1.jpg
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel2.jpg
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel3.jpg
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/pattern.png
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/content/site.css
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css.map
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css.map
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css.map
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css.map
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.eot
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.svg
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.js
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.min.js
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/npm.js
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/core.js
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.js
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.js
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.map
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.js
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.js
+04/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.map
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop.sln
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/appsettings.Development.json
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/appsettings.json
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/libman.json
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Program.cs
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Startup.cs
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Controllers/PieController.cs
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/Category.cs
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/ICategoryRepository.cs
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/IPieRepository.cs
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/MockCategoryRepository.cs
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/MockPieRepository.cs
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/Pie.cs
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Properties/launchSettings.json
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/ViewModels/PiesListViewModel.cs
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/_ViewImports.cshtml
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/_ViewStart.cshtml
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Pie/List.cshtml
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Shared/_Layout.cshtml
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/bethanylogo.png
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel1.jpg
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel2.jpg
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel3.jpg
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/pattern.png
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/content/site.css
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css.map
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css.map
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css.map
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css.map
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.eot
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.svg
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.js
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.min.js
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/npm.js
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/core.js
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.js
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.js
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.map
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.js
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.js
+04/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.map
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop.sln
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/appsettings.Development.json
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/appsettings.json
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/libman.json
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Program.cs
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Startup.cs
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Controllers/PieController.cs
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/Category.cs
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/ICategoryRepository.cs
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/IPieRepository.cs
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/MockCategoryRepository.cs
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/MockPieRepository.cs
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/Pie.cs
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Properties/launchSettings.json
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/ViewModels/PiesListViewModel.cs
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/_ViewImports.cshtml
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/_ViewStart.cshtml
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Pie/List.cshtml
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Shared/_Layout.cshtml
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/bethanylogo.png
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel1.jpg
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel2.jpg
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel3.jpg
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/pattern.png
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/content/site.css
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css.map
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css.map
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css.map
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css.map
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.eot
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.svg
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.js
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.min.js
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/npm.js
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/core.js
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.js
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.js
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.map
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.js
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.js
+04/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.map
+05/working-with-real-data-using-entity-framework-core-slides.pdf
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop.sln
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/appsettings.Development.json
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/appsettings.json
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/libman.json
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/Program.cs
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/Startup.cs
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/Controllers/PieController.cs
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.cs
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.Designer.cs
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.cs
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.Designer.cs
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/Migrations/AppDbContextModelSnapshot.cs
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/Models/AppDbContext.cs
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/Models/Category.cs
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/Models/CategoryRepository.cs
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/Models/ICategoryRepository.cs
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/Models/IPieRepository.cs
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/Models/MockCategoryRepository.cs
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/Models/MockPieRepository.cs
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/Models/Pie.cs
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/Models/PieRepository.cs
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/Properties/launchSettings.json
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/ViewModels/PiesListViewModel.cs
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/Views/_ViewImports.cshtml
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/Views/_ViewStart.cshtml
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/Views/Pie/List.cshtml
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/Views/Shared/_Layout.cshtml
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/bethanylogo.png
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel1.jpg
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel2.jpg
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel3.jpg
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/pattern.png
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/wwwroot/content/site.css
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css.map
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css.map
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css.map
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css.map
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.eot
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.svg
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.js
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.min.js
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/npm.js
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/core.js
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.js
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.js
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.map
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.js
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.js
+05/demos/ASP.NET  5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.map
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop.sln
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/appsettings.Development.json
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/appsettings.json
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/CategoryRepository.cs
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/libman.json
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Program.cs
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Startup.cs
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Controllers/PieController.cs
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.cs
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.Designer.cs
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.cs
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.Designer.cs
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/AppDbContextModelSnapshot.cs
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/AppDbContext.cs
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/Category.cs
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/ICategoryRepository.cs
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/IPieRepository.cs
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/MockCategoryRepository.cs
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/MockPieRepository.cs
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/Pie.cs
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/PieRepository.cs
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Properties/launchSettings.json
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/ViewModels/PiesListViewModel.cs
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/_ViewImports.cshtml
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/_ViewStart.cshtml
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Pie/List.cshtml
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Shared/_Layout.cshtml
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/bethanylogo.png
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel1.jpg
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel2.jpg
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel3.jpg
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/pattern.png
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/content/site.css
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css.map
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css.map
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css.map
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css.map
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.eot
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.svg
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.js
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.min.js
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/npm.js
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/core.js
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.js
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.js
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.map
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.js
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.js
+05/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.map
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop.sln
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/appsettings.Development.json
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/appsettings.json
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/CategoryRepository.cs
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/libman.json
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Program.cs
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Startup.cs
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Controllers/PieController.cs
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.cs
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.Designer.cs
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.cs
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.Designer.cs
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/AppDbContextModelSnapshot.cs
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/AppDbContext.cs
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/Category.cs
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/ICategoryRepository.cs
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/IPieRepository.cs
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/MockCategoryRepository.cs
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/MockPieRepository.cs
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/Pie.cs
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/PieRepository.cs
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Properties/launchSettings.json
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/ViewModels/PiesListViewModel.cs
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/_ViewImports.cshtml
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/_ViewStart.cshtml
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Pie/List.cshtml
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Shared/_Layout.cshtml
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/bethanylogo.png
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel1.jpg
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel2.jpg
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel3.jpg
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/pattern.png
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/content/site.css
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css.map
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css.map
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css.map
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css.map
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.eot
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.svg
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.js
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.min.js
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/npm.js
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/core.js
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.js
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.js
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.map
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.js
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.js
+05/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.map
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop.sln
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/appsettings.Development.json
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/appsettings.json
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/libman.json
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Program.cs
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Startup.cs
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Controllers/PieController.cs
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.cs
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.Designer.cs
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.cs
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.Designer.cs
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/AppDbContextModelSnapshot.cs
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/AppDbContext.cs
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/Category.cs
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/CategoryRepository.cs
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/ICategoryRepository.cs
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/IPieRepository.cs
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/MockCategoryRepository.cs
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/MockPieRepository.cs
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/Pie.cs
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/PieRepository.cs
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Properties/launchSettings.json
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/ViewModels/PiesListViewModel.cs
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/_ViewImports.cshtml
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/_ViewStart.cshtml
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Pie/List.cshtml
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Shared/_Layout.cshtml
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/bethanylogo.png
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel1.jpg
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel2.jpg
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel3.jpg
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/pattern.png
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/content/site.css
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css.map
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css.map
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css.map
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css.map
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.eot
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.svg
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.js
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.min.js
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/npm.js
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/core.js
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.js
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.js
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.map
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.js
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.js
+05/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.map
+06/adding-navigation-to-the-site-slides.pdf
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop.sln
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/appsettings.Development.json
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/appsettings.json
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/libman.json
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Program.cs
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Startup.cs
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Controllers/HomeController.cs
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Controllers/PieController.cs
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.cs
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.Designer.cs
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.cs
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.Designer.cs
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/AppDbContextModelSnapshot.cs
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/AppDbContext.cs
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/Category.cs
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/CategoryRepository.cs
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/ICategoryRepository.cs
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/IPieRepository.cs
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/MockCategoryRepository.cs
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/MockPieRepository.cs
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/Pie.cs
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/PieRepository.cs
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Properties/launchSettings.json
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/ViewModels/PiesListViewModel.cs
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/_ViewImports.cshtml
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/_ViewStart.cshtml
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Home/Index.cshtml
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Pie/Details.cshtml
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Pie/List.cshtml
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Shared/_Layout.cshtml
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/bethanylogo.png
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel1.jpg
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel2.jpg
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel3.jpg
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/pattern.png
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/content/site.css
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css.map
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css.map
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css.map
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css.map
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.eot
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.svg
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.js
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.min.js
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/npm.js
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/core.js
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.js
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.js
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.map
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.js
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.js
+06/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.map
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop.sln
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/appsettings.Development.json
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/appsettings.json
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/libman.json
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Program.cs
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Startup.cs
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Controllers/HomeController.cs
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Controllers/PieController.cs
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.cs
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.Designer.cs
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.cs
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.Designer.cs
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/AppDbContextModelSnapshot.cs
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/AppDbContext.cs
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/Category.cs
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/CategoryRepository.cs
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/ICategoryRepository.cs
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/IPieRepository.cs
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/MockCategoryRepository.cs
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/MockPieRepository.cs
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/Pie.cs
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/PieRepository.cs
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Properties/launchSettings.json
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/ViewModels/PiesListViewModel.cs
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/_ViewImports.cshtml
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/_ViewStart.cshtml
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Home/Index.cshtml
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Pie/Details.cshtml
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Pie/List.cshtml
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Shared/_Layout.cshtml
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/bethanylogo.png
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel1.jpg
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel2.jpg
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel3.jpg
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/pattern.png
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/content/site.css
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css.map
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css.map
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css.map
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css.map
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.eot
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.svg
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.js
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.min.js
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/npm.js
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/core.js
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.js
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.js
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.map
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.js
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.js
+06/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.map
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop.sln
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/appsettings.Development.json
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/appsettings.json
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/libman.json
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Program.cs
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Startup.cs
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Controllers/HomeController.cs
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Controllers/PieController.cs
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.cs
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.Designer.cs
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.cs
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.Designer.cs
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/AppDbContextModelSnapshot.cs
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/AppDbContext.cs
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/Category.cs
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/CategoryRepository.cs
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/ICategoryRepository.cs
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/IPieRepository.cs
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/MockCategoryRepository.cs
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/MockPieRepository.cs
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/Pie.cs
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/PieRepository.cs
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Properties/launchSettings.json
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/ViewModels/PiesListViewModel.cs
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/_ViewImports.cshtml
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/_ViewStart.cshtml
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Home/Index.cshtml
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Pie/Details.cshtml
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Pie/List.cshtml
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Shared/_Layout.cshtml
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/bethanylogo.png
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel1.jpg
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel2.jpg
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel3.jpg
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/pattern.png
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/content/site.css
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css.map
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css.map
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css.map
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css.map
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.eot
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.svg
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.js
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.min.js
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/npm.js
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/core.js
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.js
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.js
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.map
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.js
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.js
+06/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.map
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop.sln
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/appsettings.Development.json
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/appsettings.json
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/libman.json
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Program.cs
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Startup.cs
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Controllers/HomeController.cs
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Controllers/PieController.cs
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.cs
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.Designer.cs
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.cs
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.Designer.cs
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/AppDbContextModelSnapshot.cs
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/AppDbContext.cs
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/Category.cs
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/CategoryRepository.cs
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/ICategoryRepository.cs
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/IPieRepository.cs
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/MockCategoryRepository.cs
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/MockPieRepository.cs
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/Pie.cs
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/PieRepository.cs
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Properties/launchSettings.json
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/ViewModels/PiesListViewModel.cs
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/_ViewImports.cshtml
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/_ViewStart.cshtml
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Home/Index.cshtml
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Pie/Details.cshtml
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Pie/List.cshtml
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Shared/_Layout.cshtml
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/bethanylogo.png
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel1.jpg
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel2.jpg
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel3.jpg
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/pattern.png
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/content/site.css
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css.map
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css.map
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css.map
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css.map
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.eot
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.svg
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.js
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.min.js
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/npm.js
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/core.js
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.js
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.js
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.map
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.js
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.js
+06/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.map
+07/improving-the-views-in-the-application-slides.pdf
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop.sln
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/appsettings.Development.json
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/appsettings.json
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/libman.json
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Program.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Startup.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Components/CategoryMenu.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Components/ShoppingCartSummary.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Controllers/ContactController.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Controllers/HomeController.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Controllers/PieController.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Controllers/ShoppingCartController.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.Designer.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.Designer.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/20190805192600_AddShoppingCartItem.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/20190805192600_AddShoppingCartItem.Designer.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/AppDbContextModelSnapshot.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/AppDbContext.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/Category.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/CategoryRepository.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/ICategoryRepository.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/IPieRepository.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/MockCategoryRepository.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/MockPieRepository.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/Pie.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/PieRepository.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/ShoppingCart.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/ShoppingCartItem.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Properties/launchSettings.json
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/TagHelpers/EmailTagHelper.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/ViewModels/HomeViewModel.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/ViewModels/PiesListViewModel.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/ViewModels/ShoppingCartViewModel.cs
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/_ViewImports.cshtml
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/_ViewStart.cshtml
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Contact/Index.cshtml
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Home/Index.cshtml
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Pie/Details.cshtml
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Pie/List.cshtml
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Shared/_Carousel.cshtml
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Shared/_Layout.cshtml
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Shared/_PieCard.cshtml
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Shared/Components/CategoryMenu/Default.cshtml
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Shared/Components/ShoppingCartSummary/Default.cshtml
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/ShoppingCart/Index.cshtml
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/bethanylogo.png
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel1.jpg
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel2.jpg
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel3.jpg
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/pattern.png
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/content/site.css
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css.map
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css.map
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css.map
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css.map
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.eot
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.svg
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.js
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.min.js
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/npm.js
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/core.js
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.js
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.js
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.map
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.js
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.js
+07/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.map
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop.sln
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/appsettings.Development.json
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/appsettings.json
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/libman.json
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Program.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Startup.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Components/CategoryMenu.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Components/ShoppingCartSummary.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Controllers/ContactController.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Controllers/HomeController.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Controllers/PieController.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Controllers/ShoppingCartController.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.Designer.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.Designer.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190805192600_AddShoppingCartItem.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190805192600_AddShoppingCartItem.Designer.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/AppDbContextModelSnapshot.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/AppDbContext.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/Category.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/CategoryRepository.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/ICategoryRepository.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/IPieRepository.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/MockCategoryRepository.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/MockPieRepository.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/Pie.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/PieRepository.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/ShoppingCart.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/ShoppingCartItem.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Properties/launchSettings.json
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/TagHelpers/EmailTagHelper.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/ViewModels/HomeViewModel.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/ViewModels/PiesListViewModel.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/ViewModels/ShoppingCartViewModel.cs
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/_ViewImports.cshtml
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/_ViewStart.cshtml
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Contact/Index.cshtml
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Home/Index.cshtml
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Pie/Details.cshtml
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Pie/List.cshtml
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Shared/_Carousel.cshtml
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Shared/_Layout.cshtml
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Shared/_PieCard.cshtml
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Shared/Components/CategoryMenu/Default.cshtml
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Shared/Components/ShoppingCartSummary/Default.cshtml
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/ShoppingCart/Index.cshtml
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/bethanylogo.png
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel1.jpg
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel2.jpg
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel3.jpg
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/pattern.png
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/content/site.css
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css.map
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css.map
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css.map
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css.map
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.eot
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.svg
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.js
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.min.js
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/npm.js
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/core.js
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.js
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.js
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.map
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.js
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.js
+07/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.map
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop.sln
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/appsettings.Development.json
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/appsettings.json
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/libman.json
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Program.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Startup.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Components/CategoryMenu.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Components/ShoppingCartSummary.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Controllers/ContactController.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Controllers/HomeController.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Controllers/PieController.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Controllers/ShoppingCartController.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.Designer.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.Designer.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190805192600_AddShoppingCartItem.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190805192600_AddShoppingCartItem.Designer.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/AppDbContextModelSnapshot.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/AppDbContext.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/Category.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/CategoryRepository.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/ICategoryRepository.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/IPieRepository.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/MockCategoryRepository.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/MockPieRepository.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/Pie.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/PieRepository.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/ShoppingCart.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/ShoppingCartItem.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Properties/launchSettings.json
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/TagHelpers/EmailTagHelper.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/ViewModels/HomeViewModel.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/ViewModels/PiesListViewModel.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/ViewModels/ShoppingCartViewModel.cs
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/_ViewImports.cshtml
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/_ViewStart.cshtml
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Contact/Index.cshtml
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Home/Index.cshtml
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Pie/Details.cshtml
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Pie/List.cshtml
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Shared/_Carousel.cshtml
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Shared/_Layout.cshtml
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Shared/_PieCard.cshtml
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Shared/Components/CategoryMenu/Default.cshtml
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Shared/Components/ShoppingCartSummary/Default.cshtml
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/ShoppingCart/Index.cshtml
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/bethanylogo.png
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel1.jpg
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel2.jpg
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel3.jpg
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/pattern.png
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/content/site.css
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css.map
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css.map
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css.map
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css.map
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.eot
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.svg
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.js
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.min.js
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/npm.js
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/core.js
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.js
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.js
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.map
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.js
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.js
+07/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.map
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop.sln
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/appsettings.Development.json
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/appsettings.json
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/libman.json
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Program.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Startup.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Components/CategoryMenu.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Components/ShoppingCartSummary.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Controllers/ContactController.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Controllers/HomeController.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Controllers/PieController.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Controllers/ShoppingCartController.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.Designer.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.Designer.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190805192600_AddShoppingCartItem.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190805192600_AddShoppingCartItem.Designer.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/AppDbContextModelSnapshot.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/AppDbContext.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/Category.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/CategoryRepository.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/ICategoryRepository.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/IPieRepository.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/MockCategoryRepository.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/MockPieRepository.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/Pie.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/PieRepository.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/ShoppingCart.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/ShoppingCartItem.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Properties/launchSettings.json
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/TagHelpers/EmailTagHelper.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/ViewModels/HomeViewModel.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/ViewModels/PiesListViewModel.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/ViewModels/ShoppingCartViewModel.cs
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/_ViewImports.cshtml
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/_ViewStart.cshtml
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Contact/Index.cshtml
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Home/Index.cshtml
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Pie/Details.cshtml
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Pie/List.cshtml
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Shared/_Carousel.cshtml
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Shared/_Layout.cshtml
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Shared/_PieCard.cshtml
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Shared/Components/CategoryMenu/Default.cshtml
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Shared/Components/ShoppingCartSummary/Default.cshtml
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/ShoppingCart/Index.cshtml
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/bethanylogo.png
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel1.jpg
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel2.jpg
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel3.jpg
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/pattern.png
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/content/site.css
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css.map
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css.map
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css.map
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css.map
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.eot
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.svg
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.js
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.min.js
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/npm.js
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/core.js
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.js
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.js
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.map
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.js
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.js
+07/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.map
+08/creating-an-order-form-slides.pdf
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop.sln
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/appsettings.Development.json
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/appsettings.json
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/libman.json
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Program.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Startup.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Components/CategoryMenu.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Components/ShoppingCartSummary.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Controllers/ContactController.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Controllers/HomeController.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Controllers/OrderController.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Controllers/PieController.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Controllers/ShoppingCartController.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.Designer.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.Designer.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/20190805192600_AddShoppingCartItem.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/20190805192600_AddShoppingCartItem.Designer.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/20190805201030_OrdersAdded.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/20190805201030_OrdersAdded.Designer.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/AppDbContextModelSnapshot.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/AppDbContext.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/Category.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/CategoryRepository.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/ICategoryRepository.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/IOrderRepository.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/IPieRepository.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/MockCategoryRepository.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/MockPieRepository.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/Order.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/OrderDetail.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/OrderRepository.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/Pie.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/PieRepository.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/ShoppingCart.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/ShoppingCartItem.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Properties/launchSettings.json
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/TagHelpers/EmailTagHelper.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/ViewModels/HomeViewModel.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/ViewModels/PiesListViewModel.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/ViewModels/ShoppingCartViewModel.cs
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/_ViewImports.cshtml
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/_ViewStart.cshtml
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Contact/Index.cshtml
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Home/Index.cshtml
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Order/Checkout.cshtml
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Order/CheckoutComplete.cshtml
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Pie/Details.cshtml
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Pie/List.cshtml
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Shared/_Carousel.cshtml
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Shared/_Layout.cshtml
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Shared/_PieCard.cshtml
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Shared/Components/CategoryMenu/Default.cshtml
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Shared/Components/ShoppingCartSummary/Default.cshtml
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/ShoppingCart/Index.cshtml
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/bethanylogo.png
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel1.jpg
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel2.jpg
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel3.jpg
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/pattern.png
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/content/site.css
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css.map
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css.map
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css.map
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css.map
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.eot
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.svg
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.js
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.min.js
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/npm.js
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/core.js
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.js
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.js
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.map
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.js
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.js
+08/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.map
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop.sln
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/appsettings.Development.json
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/appsettings.json
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/libman.json
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Program.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Startup.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Components/CategoryMenu.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Components/ShoppingCartSummary.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Controllers/ContactController.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Controllers/HomeController.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Controllers/OrderController.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Controllers/PieController.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Controllers/ShoppingCartController.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.Designer.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.Designer.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190805192600_AddShoppingCartItem.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190805192600_AddShoppingCartItem.Designer.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190805201030_OrdersAdded.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190805201030_OrdersAdded.Designer.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/AppDbContextModelSnapshot.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/AppDbContext.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/Category.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/CategoryRepository.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/ICategoryRepository.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/IOrderRepository.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/IPieRepository.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/MockCategoryRepository.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/MockPieRepository.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/Order.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/OrderDetail.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/OrderRepository.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/Pie.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/PieRepository.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/ShoppingCart.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/ShoppingCartItem.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Properties/launchSettings.json
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/TagHelpers/EmailTagHelper.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/ViewModels/HomeViewModel.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/ViewModels/PiesListViewModel.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/ViewModels/ShoppingCartViewModel.cs
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/_ViewImports.cshtml
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/_ViewStart.cshtml
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Contact/Index.cshtml
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Home/Index.cshtml
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Order/Checkout.cshtml
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Order/CheckoutComplete.cshtml
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Pie/Details.cshtml
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Pie/List.cshtml
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Shared/_Carousel.cshtml
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Shared/_Layout.cshtml
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Shared/_PieCard.cshtml
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Shared/Components/CategoryMenu/Default.cshtml
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Shared/Components/ShoppingCartSummary/Default.cshtml
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/ShoppingCart/Index.cshtml
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/bethanylogo.png
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel1.jpg
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel2.jpg
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel3.jpg
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/pattern.png
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/content/site.css
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css.map
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css.map
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css.map
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css.map
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.eot
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.svg
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.js
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.min.js
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/npm.js
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/core.js
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.js
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.js
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.map
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.js
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.js
+08/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.map
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop.sln
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/appsettings.Development.json
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/appsettings.json
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/libman.json
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Program.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Startup.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Components/CategoryMenu.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Components/ShoppingCartSummary.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Controllers/ContactController.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Controllers/HomeController.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Controllers/OrderController.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Controllers/PieController.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Controllers/ShoppingCartController.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.Designer.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.Designer.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190805192600_AddShoppingCartItem.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190805192600_AddShoppingCartItem.Designer.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190805201030_OrdersAdded.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190805201030_OrdersAdded.Designer.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/AppDbContextModelSnapshot.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/AppDbContext.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/Category.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/CategoryRepository.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/ICategoryRepository.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/IOrderRepository.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/IPieRepository.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/MockCategoryRepository.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/MockPieRepository.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/Order.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/OrderDetail.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/OrderRepository.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/Pie.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/PieRepository.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/ShoppingCart.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/ShoppingCartItem.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Properties/launchSettings.json
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/TagHelpers/EmailTagHelper.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/ViewModels/HomeViewModel.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/ViewModels/PiesListViewModel.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/ViewModels/ShoppingCartViewModel.cs
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/_ViewImports.cshtml
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/_ViewStart.cshtml
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Contact/Index.cshtml
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Home/Index.cshtml
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Order/Checkout.cshtml
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Order/CheckoutComplete.cshtml
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Pie/Details.cshtml
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Pie/List.cshtml
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Shared/_Carousel.cshtml
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Shared/_Layout.cshtml
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Shared/_PieCard.cshtml
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Shared/Components/CategoryMenu/Default.cshtml
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Shared/Components/ShoppingCartSummary/Default.cshtml
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/ShoppingCart/Index.cshtml
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/bethanylogo.png
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel1.jpg
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel2.jpg
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel3.jpg
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/pattern.png
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/content/site.css
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css.map
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css.map
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css.map
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css.map
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.eot
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.svg
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.js
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.min.js
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/npm.js
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/core.js
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.js
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.js
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.map
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.js
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.js
+08/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.map
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop.sln
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/appsettings.Development.json
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/appsettings.json
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/libman.json
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Program.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Startup.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Components/CategoryMenu.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Components/ShoppingCartSummary.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Controllers/ContactController.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Controllers/HomeController.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Controllers/OrderController.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Controllers/PieController.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Controllers/ShoppingCartController.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.Designer.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.Designer.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190805192600_AddShoppingCartItem.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190805192600_AddShoppingCartItem.Designer.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190805201030_OrdersAdded.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190805201030_OrdersAdded.Designer.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/AppDbContextModelSnapshot.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/AppDbContext.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/Category.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/CategoryRepository.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/ICategoryRepository.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/IOrderRepository.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/IPieRepository.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/MockCategoryRepository.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/MockPieRepository.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/Order.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/OrderDetail.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/OrderRepository.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/Pie.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/PieRepository.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/ShoppingCart.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/ShoppingCartItem.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Properties/launchSettings.json
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/TagHelpers/EmailTagHelper.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/ViewModels/HomeViewModel.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/ViewModels/PiesListViewModel.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/ViewModels/ShoppingCartViewModel.cs
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/_ViewImports.cshtml
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/_ViewStart.cshtml
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Contact/Index.cshtml
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Home/Index.cshtml
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Order/Checkout.cshtml
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Order/CheckoutComplete.cshtml
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Pie/Details.cshtml
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Pie/List.cshtml
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Shared/_Carousel.cshtml
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Shared/_Layout.cshtml
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Shared/_PieCard.cshtml
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Shared/Components/CategoryMenu/Default.cshtml
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Shared/Components/ShoppingCartSummary/Default.cshtml
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/ShoppingCart/Index.cshtml
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/bethanylogo.png
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel1.jpg
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel2.jpg
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel3.jpg
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/pattern.png
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/content/site.css
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css.map
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css.map
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css.map
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css.map
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.eot
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.svg
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.js
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.min.js
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/npm.js
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/core.js
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.js
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.js
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.map
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.js
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.js
+08/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.map
+09/adding-login-capabilities-to-the-site-slides.pdf
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop.sln
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/appsettings.Development.json
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/appsettings.json
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/libman.json
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Program.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Startup.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Areas/Identity/IdentityHostingStartup.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/_ViewImports.cshtml
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/_ViewStart.cshtml
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/_ViewImports.cshtml
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/Login.cshtml
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/Login.cshtml.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/Logout.cshtml
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/Logout.cshtml.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/Register.cshtml
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/Register.cshtml.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Components/CategoryMenu.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Components/ShoppingCartSummary.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Controllers/ContactController.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Controllers/HomeController.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Controllers/OrderController.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Controllers/PieController.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Controllers/ShoppingCartController.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.Designer.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.Designer.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/20190805192600_AddShoppingCartItem.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/20190805192600_AddShoppingCartItem.Designer.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/20190805201030_OrdersAdded.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/20190805201030_OrdersAdded.Designer.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/20190805205628_IdentityAdded.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/20190805205628_IdentityAdded.Designer.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Migrations/AppDbContextModelSnapshot.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/AppDbContext.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/Category.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/CategoryRepository.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/ICategoryRepository.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/IOrderRepository.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/IPieRepository.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/MockCategoryRepository.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/MockPieRepository.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/Order.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/OrderDetail.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/OrderRepository.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/Pie.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/PieRepository.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/ShoppingCart.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Models/ShoppingCartItem.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Properties/launchSettings.json
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/TagHelpers/EmailTagHelper.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/ViewModels/HomeViewModel.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/ViewModels/PiesListViewModel.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/ViewModels/ShoppingCartViewModel.cs
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/_ViewImports.cshtml
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/_ViewStart.cshtml
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Contact/Index.cshtml
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Home/Index.cshtml
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Order/Checkout.cshtml
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Order/CheckoutComplete.cshtml
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Pie/Details.cshtml
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Pie/List.cshtml
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Shared/_Carousel.cshtml
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Shared/_CookieConsentPartial.cshtml
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Shared/_Layout.cshtml
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Shared/_LoginPartial.cshtml
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Shared/_PieCard.cshtml
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Shared/Components/CategoryMenu/Default.cshtml
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/Shared/Components/ShoppingCartSummary/Default.cshtml
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/Views/ShoppingCart/Index.cshtml
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/bethanylogo.png
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel1.jpg
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel2.jpg
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel3.jpg
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/pattern.png
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/content/site.css
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css.map
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css.map
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css.map
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css.map
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.eot
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.svg
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.js
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.min.js
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/npm.js
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/core.js
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.js
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.js
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.map
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.js
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.js
+09/demos/ASP.NET 5.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.map
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop.sln
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/appsettings.Development.json
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/appsettings.json
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/libman.json
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Program.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Startup.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Areas/Identity/IdentityHostingStartup.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/_ViewImports.cshtml
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/_ViewStart.cshtml
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/_ViewImports.cshtml
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/Login.cshtml
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/Login.cshtml.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/Logout.cshtml
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/Logout.cshtml.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/Register.cshtml
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/Register.cshtml.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Components/CategoryMenu.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Components/ShoppingCartSummary.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Controllers/ContactController.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Controllers/HomeController.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Controllers/OrderController.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Controllers/PieController.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Controllers/ShoppingCartController.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.Designer.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.Designer.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190805192600_AddShoppingCartItem.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190805192600_AddShoppingCartItem.Designer.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190805201030_OrdersAdded.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190805201030_OrdersAdded.Designer.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190805205628_IdentityAdded.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/20190805205628_IdentityAdded.Designer.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Migrations/AppDbContextModelSnapshot.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/AppDbContext.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/Category.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/CategoryRepository.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/ICategoryRepository.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/IOrderRepository.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/IPieRepository.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/MockCategoryRepository.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/MockPieRepository.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/Order.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/OrderDetail.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/OrderRepository.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/Pie.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/PieRepository.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/ShoppingCart.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Models/ShoppingCartItem.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Properties/launchSettings.json
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/TagHelpers/EmailTagHelper.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/ViewModels/HomeViewModel.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/ViewModels/PiesListViewModel.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/ViewModels/ShoppingCartViewModel.cs
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/_ViewImports.cshtml
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/_ViewStart.cshtml
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Contact/Index.cshtml
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Home/Index.cshtml
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Order/Checkout.cshtml
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Order/CheckoutComplete.cshtml
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Pie/Details.cshtml
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Pie/List.cshtml
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Shared/_Carousel.cshtml
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Shared/_CookieConsentPartial.cshtml
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Shared/_Layout.cshtml
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Shared/_LoginPartial.cshtml
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Shared/_PieCard.cshtml
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Shared/Components/CategoryMenu/Default.cshtml
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/Shared/Components/ShoppingCartSummary/Default.cshtml
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/Views/ShoppingCart/Index.cshtml
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/bethanylogo.png
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel1.jpg
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel2.jpg
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel3.jpg
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/pattern.png
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/content/site.css
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css.map
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css.map
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css.map
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css.map
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.eot
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.svg
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.js
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.min.js
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/npm.js
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/core.js
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.js
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.js
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.map
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.js
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.js
+09/demos/ASP.NET Core 2.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.map
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop.sln
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/appsettings.Development.json
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/appsettings.json
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/libman.json
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Program.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Startup.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Areas/Identity/IdentityHostingStartup.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/_ViewImports.cshtml
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/_ViewStart.cshtml
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/_ViewImports.cshtml
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/Login.cshtml
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/Login.cshtml.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/Logout.cshtml
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/Logout.cshtml.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/Register.cshtml
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/Register.cshtml.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Components/CategoryMenu.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Components/ShoppingCartSummary.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Controllers/ContactController.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Controllers/HomeController.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Controllers/OrderController.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Controllers/PieController.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Controllers/ShoppingCartController.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.Designer.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.Designer.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190805192600_AddShoppingCartItem.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190805192600_AddShoppingCartItem.Designer.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190805201030_OrdersAdded.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190805201030_OrdersAdded.Designer.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190805205628_IdentityAdded.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/20190805205628_IdentityAdded.Designer.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Migrations/AppDbContextModelSnapshot.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/AppDbContext.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/Category.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/CategoryRepository.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/ICategoryRepository.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/IOrderRepository.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/IPieRepository.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/MockCategoryRepository.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/MockPieRepository.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/Order.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/OrderDetail.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/OrderRepository.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/Pie.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/PieRepository.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/ShoppingCart.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Models/ShoppingCartItem.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Properties/launchSettings.json
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/TagHelpers/EmailTagHelper.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/ViewModels/HomeViewModel.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/ViewModels/PiesListViewModel.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/ViewModels/ShoppingCartViewModel.cs
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/_ViewImports.cshtml
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/_ViewStart.cshtml
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Contact/Index.cshtml
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Home/Index.cshtml
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Order/Checkout.cshtml
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Order/CheckoutComplete.cshtml
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Pie/Details.cshtml
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Pie/List.cshtml
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Shared/_Carousel.cshtml
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Shared/_CookieConsentPartial.cshtml
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Shared/_Layout.cshtml
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Shared/_LoginPartial.cshtml
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Shared/_PieCard.cshtml
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Shared/Components/CategoryMenu/Default.cshtml
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/Shared/Components/ShoppingCartSummary/Default.cshtml
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/Views/ShoppingCart/Index.cshtml
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/bethanylogo.png
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel1.jpg
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel2.jpg
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel3.jpg
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/Images/pattern.png
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/content/site.css
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css.map
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css.map
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css.map
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css.map
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.eot
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.svg
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.js
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.min.js
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/npm.js
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/core.js
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.js
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.js
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.map
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.js
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.js
+09/demos/ASP.NET Core 3.0/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.map
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop.sln
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/appsettings.Development.json
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/appsettings.json
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/libman.json
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Program.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Startup.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Areas/Identity/IdentityHostingStartup.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/_ViewImports.cshtml
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/_ViewStart.cshtml
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/_ViewImports.cshtml
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/Login.cshtml
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/Login.cshtml.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/Logout.cshtml
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/Logout.cshtml.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/Register.cshtml
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Areas/Identity/Pages/Account/Register.cshtml.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Components/CategoryMenu.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Components/ShoppingCartSummary.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Controllers/ContactController.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Controllers/HomeController.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Controllers/OrderController.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Controllers/PieController.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Controllers/ShoppingCartController.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190804201834_InitialMigration.Designer.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190804202251_SeedDataAdded.Designer.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190805192600_AddShoppingCartItem.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190805192600_AddShoppingCartItem.Designer.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190805201030_OrdersAdded.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190805201030_OrdersAdded.Designer.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190805205628_IdentityAdded.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/20190805205628_IdentityAdded.Designer.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Migrations/AppDbContextModelSnapshot.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/AppDbContext.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/Category.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/CategoryRepository.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/ICategoryRepository.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/IOrderRepository.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/IPieRepository.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/MockCategoryRepository.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/MockPieRepository.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/Order.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/OrderDetail.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/OrderRepository.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/Pie.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/PieRepository.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/ShoppingCart.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Models/ShoppingCartItem.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Properties/launchSettings.json
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/TagHelpers/EmailTagHelper.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/ViewModels/HomeViewModel.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/ViewModels/PiesListViewModel.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/ViewModels/ShoppingCartViewModel.cs
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/_ViewImports.cshtml
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/_ViewStart.cshtml
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Contact/Index.cshtml
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Home/Index.cshtml
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Order/Checkout.cshtml
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Order/CheckoutComplete.cshtml
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Pie/Details.cshtml
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Pie/List.cshtml
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Shared/_Carousel.cshtml
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Shared/_CookieConsentPartial.cshtml
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Shared/_Layout.cshtml
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Shared/_LoginPartial.cshtml
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Shared/_PieCard.cshtml
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Shared/Components/CategoryMenu/Default.cshtml
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/Shared/Components/ShoppingCartSummary/Default.cshtml
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/Views/ShoppingCart/Index.cshtml
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/bethanylogo.png
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel1.jpg
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel2.jpg
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/carousel3.jpg
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/Images/pattern.png
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/content/site.css
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.css.map
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css.map
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.css.map
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/css/bootstrap.min.css.map
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.eot
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.svg
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.js
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/bootstrap.min.js
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/bootstrap/js/npm.js
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/core.js
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.js
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.js
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.min.map
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.js
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.js
+09/demos/ASP.NET Core 3.1/BethanysPieShop/BethanysPieShop/wwwroot/lib/jquery/jquery.slim.min.map
+Assets/Images/bethanylogo.png
+Assets/Images/carousel1.jpg
+Assets/Images/carousel2.jpg
+Assets/Images/carousel3.jpg
+Assets/Images/pattern.png
+Assets/Snippets/m4.txt
+Assets/Snippets/m5.txt
+Assets/Snippets/m6.txt
+Assets/Snippets/m7.txt
+Assets/Snippets/m8.txt
+Assets/content/site.css
+Assets/lib/bootstrap/css/bootstrap-theme.css
+Assets/lib/bootstrap/css/bootstrap-theme.css.map
+Assets/lib/bootstrap/css/bootstrap-theme.min.css
+Assets/lib/bootstrap/css/bootstrap-theme.min.css.map
+Assets/lib/bootstrap/css/bootstrap.css
+Assets/lib/bootstrap/css/bootstrap.css.map
+Assets/lib/bootstrap/css/bootstrap.min.css
+Assets/lib/bootstrap/css/bootstrap.min.css.map
+Assets/lib/bootstrap/fonts/glyphicons-halflings-regular.eot
+Assets/lib/bootstrap/fonts/glyphicons-halflings-regular.svg
+Assets/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf
+Assets/lib/bootstrap/fonts/glyphicons-halflings-regular.woff
+Assets/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2
+Assets/lib/bootstrap/js/bootstrap.js
+Assets/lib/bootstrap/js/bootstrap.min.js
+Assets/lib/bootstrap/js/npm.js
+Assets/lib/jquery/core.js
+Assets/lib/jquery/jquery.js
+Assets/lib/jquery/jquery.min.js
+Assets/lib/jquery/jquery.min.map
+Assets/lib/jquery/jquery.slim.js
+Assets/lib/jquery/jquery.slim.min.js
+Assets/lib/jquery/jquery.slim.min.map
+building-aspdotnet-core-mvc-web-applications.zip
