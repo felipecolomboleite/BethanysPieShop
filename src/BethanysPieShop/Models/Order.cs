@@ -1,10 +1,12 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Mvc.ModelBinding;
+using System;
 using System.Collections.Generic;
 
 namespace BethanysPieShop.Models
 {
     public class Order
     {
+        [BindNever]
         public int OrderId { get; set; }
         public List<OrderDetail> OrderDetails { get; set; }
         public string FirstName { get; set; }
