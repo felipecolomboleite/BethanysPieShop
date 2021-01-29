@@ -19,9 +19,9 @@ namespace BethanysPieShop.Models
         {
             order.OrderPlaced = DateTime.Now;
 
-            _appDbContext.Orders.Add(order);
-
             var shoppingCartItems = _shoppingCart.ShoppingCartItems;
+            order.OrderTotal = _shoppingCart.GetShoppingCartTotal();
+            order.OrderDetails = new List<OrderDetail>();
 
             foreach (var shoppingCartItem in shoppingCartItems)
             {
@@ -29,13 +29,13 @@ namespace BethanysPieShop.Models
                 { 
                     Amount = shoppingCartItem.Amount,
                     PieId = shoppingCartItem.Pie.PieId,
-                    OrderId = order.OrderId,
                     Price = shoppingCartItem.Pie.Price
                 };
 
-                _appDbContext.OrderDetails.Add(orderDetail);
+                order.OrderDetails.Add(orderDetail);
             }
 
+            _appDbContext.Orders.Add(order);
             _appDbContext.SaveChanges();
         }
     }
