@@ -41,7 +41,11 @@ namespace BethanysPieShop.Controllers
                 _shoppingCart.ClearCart();
                 return RedirectToAction("CheckoutComplete");
             }
-            return View(order);
+            else
+            {
+                return View(order);
+            }
+            
         }
 
         public IActionResult CheckoutComplete()
